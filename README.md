@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Resturent-Management-System](https://github.com/theek23/Resturent-Management-System.git)
+- 🔭 I’m currently working on [Resturent-Management-System](https://github.com/theek23/restaurant-management-system-)
 
 - 🌱 I’m currently learning **Java, React, Spring Boot, Angular**
 
