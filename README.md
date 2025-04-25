@@ -17,7 +17,7 @@ I'm a passionate full stack developer based in Sri Lanka with expertise in build
 
 - 🔭 Currently working on: [AI Powerd CMS](https://github.com/theek23/cms-platform-frontend)
 - 🌱 Learning: **Java, React, Spring Boot, Angular**
-- 💼 Portfolio: [theekshanadesilva.great-site.net](https://github.com/theek23/workfoliyo)
+- 💼 Portfolio: [Workfoliyo](https://theek23.github.io/workfoliyo/)
 - 💬 Ask me about: **Java,Backedn Development, Web Development, Mobile App Development**
 - 📫 Reach me at: **theekshanadesilva28@gmail.com**
 
